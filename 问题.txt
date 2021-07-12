@@ -1,0 +1,50 @@
+$(SolutionDir)..\..\include\msvc\
+
+$(SolutionDir)..\..\include\
+
+../../../lib/vc_lib/mswud/wx/setup.h"
+
+#include "E:/FileZillaCode/filezilla/filezillaclient/wxWidgets-3.1.0/lib/vc_lib/mswud/wx"
+
+
+E:\FileZillaCode\filezilla\filezillaclient\wxWidgets-3.1.0\include\
+
+E:\FileZillaCode\filezilla\filezillaclient\wxWidgets-3.1.0\include\msvc\
+
+E:\FileZillaCode\filezilla\filezillaclient\gnutls\include\
+
+E:\FileZillaCode\filezilla\filezillaclient\sqlite-amalgamation-3080803\
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	LNK1104	无法打开文件“libgnutls-28.lib”	FileZilla	E:\FileZillaCode\filezilla\filezillaclient\clien\src\interface\LINK	1	
+
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	LNK1104	无法打开文件“sqlite3.lib”	FileZilla	E:\FileZillaCode\filezilla\filezillaclient\clien\src\interface\LINK	1	
+
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	LNK1104	无法打开文件“wxbase30ud.lib”	FileZilla	E:\FileZillaCode\filezilla\filezillaclient\clien\src\interface\LINK	1	
+
+
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	C1189	#error:  Macro definition of snprintf conflicts with Standard Library function declaration	fzshellext	c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h	1935	
+
+$(ProjectDir)..\..\..\
+
+E:\FileZillaCode\filezilla\filezillaclient\wxWidgets-3.1.0\include\
+
+E:\FileZillaCode\filezilla\filezillaclient\wxWidgets-3.1.0\include\msvc
+
+E:\FileZillaCode\filezilla\filezillaclient\gnutls\include\
+
+E:\FileZillaCode\filezilla\filezillaclient\sqlite-amalgamation-3080803\
+
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	C3861	“_USE”: 找不到标识符	filezillaserver	e:\filezillacode\filezilla\filezillaserver\misc\stdstring.h	897	
+
+
+
+
